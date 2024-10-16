@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="P15"/>
+<aop-project name="MeuPrimeiroProjeto"/>
+<aop-project name="P14"/>
+<aop-project name="P17"/>
+<aop-project name="P16"/>
+<aop-project name="P11"/>
+<aop-project name="P10"/>
+<aop-project name="P13"/>
+<aop-project name="P09"/>
+<aop-project name="P12"/>
+</aop-reference-model>
